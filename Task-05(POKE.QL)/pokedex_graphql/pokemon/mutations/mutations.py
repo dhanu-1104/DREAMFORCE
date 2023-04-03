@@ -5,6 +5,7 @@ from pokemon.types import PokemonType
 
 @strawberry.input
 class pokemonInput:
+
     name: str
     type: str
     strength: str
