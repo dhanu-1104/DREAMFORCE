@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&family=Quicksand:wght@600&display=swap');
+
+
+.dropdown {
+    position: relative;
+    left: 540px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #1c1c1c;
+    padding: 9px 9px;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+}
+
+.dropdown-content a:hover {background-color: #ccb6e3;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropButton {background-color: purple;}
