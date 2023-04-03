@@ -1,5 +1,10 @@
 # Project RED.UI: Image Enhancement with Figma
 
+
+
+<img width="1440" alt="Screenshot 2023-04-03 at 9 27 36 PM" src="https://user-images.githubusercontent.com/91822334/229565666-41c8a135-872e-474f-8819-11cfc32192ec.png">
+
+
 ## Introduction
 
 In this project, we will be using Figma to enhance an image and make it look more visually appealing. Figma is a powerful design tool that allows you to create beautiful designs, user interfaces, and graphics. It's a great tool for anyone who wants to improve their design skills and create professional-looking visuals.
