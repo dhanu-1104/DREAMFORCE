@@ -1,11 +1,10 @@
 
 
+<img width="203" alt="Screenshot 2023-04-01 at 5 29 07 PM" src="https://user-images.githubusercontent.com/91822334/229523022-91b038e8-c7e9-4699-9219-2ba6c1e4e885.png">
 
-![Screenshot 2023-04-01 at 5.29.00 PM.png](..%2F..%2FDocuments%2FScreenshot%202023-04-01%20at%205.29.00%20PM.png)
 
 
-![Screenshot 2023-04-01 at 5.29.07 PM.png](..%2F..%2FDocuments%2FScreenshot%202023-04-01%20at%205.29.07%20PM.png)
-
+<img width="203" alt="Screenshot 2023-04-01 at 5 29 00 PM" src="https://user-images.githubusercontent.com/91822334/229523055-162b0562-4c0e-4fdc-ac5f-6286a856137d.png">
 
 # My Django Strawberry Project
 
@@ -36,6 +35,6 @@ pip install -r requirements.txt
 ```` 
 python manage.py runserver
 ````
+<img width="905" alt="Screenshot 2023-04-01 at 5 29 25 PM" src="https://user-images.githubusercontent.com/91822334/229523109-58825815-197c-4c6b-8911-397532a17672.png">
 
 
-![Screenshot 2023-04-01 at 5.29.25 PM.png](..%2F..%2FDocuments%2FScreenshot%202023-04-01%20at%205.29.25%20PM.png)
