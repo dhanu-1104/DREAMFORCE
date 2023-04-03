@@ -1,7 +1,7 @@
 # ER DIAGRAM
 
 
-![Screenshot 2023-04-01 at 9.21.34 PM.png](..%2F..%2FDocuments%2FScreenshot%202023-04-01%20at%209.21.34%20PM.png)
+<img width="1038" alt="Screenshot 2023-04-01 at 9 21 34 PM" src="https://user-images.githubusercontent.com/91822334/229522440-eb59b9c9-20b5-4154-bc49-cfbcf41b925d.png">
 
 
 
